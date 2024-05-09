@@ -107,7 +107,7 @@ const Home = () => {
       <TeamCard />
       {/* <MGP page={"home"} /> */}
       <Events Scrolltoref={Scrolltoref} />
-      <Quote />
+    
       <LatestBlogs />
       <Appointment />
       <div ref={formref}>
