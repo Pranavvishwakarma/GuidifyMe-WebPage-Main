@@ -27,7 +27,7 @@ const About = () => {
       <OurMission />
       <OurVision />
       <Prophecy />
-      <CardAbout />
+ 
       <Appointment />
       <Footer />
     </section>
